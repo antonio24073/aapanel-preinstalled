@@ -34,9 +34,3 @@ https://hub.docker.com/r/antonio24073/aapanel
 
 https://github.com/antonio24073/aapanel-updater
 
-
-----------------------
-
-# Donations
-
-Help keep projects free: <a href="https://www.paypal.com/donate/?business=X3W3QTHS7BDW4&no_recurring=0&currency_code=USD" >Click Here</a>

@@ -1,4 +1,11 @@
-# Aapanel Preinstalled
+# IMPORTANT
+
+This is an old version for centos 7. The new versions are below:
+
+https://github.com/antonio24073/aapanel-ubuntu-24-04
+https://github.com/antonio24073/aapanel-ubuntu-24-04-preinstalled
+
+# Aapanel Centos 7 Preinstalled
 
 Aapanel docker compose file to customize
 
@@ -34,9 +41,3 @@ https://hub.docker.com/r/antonio24073/aapanel
 
 https://github.com/antonio24073/aapanel-updater
 
-
-----------------------
-
-# Donations
-
-Help keep projects free: <a href="https://www.paypal.com/donate/?business=X3W3QTHS7BDW4&no_recurring=0&currency_code=USD" >Click Here</a>

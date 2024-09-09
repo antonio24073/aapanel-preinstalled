@@ -2,8 +2,7 @@
 
 This is an old version for centos 7. The new versions are below:
 
-https://github.com/antonio24073/aapanel-ubuntu-24-04
-https://github.com/antonio24073/aapanel-ubuntu-24-04-preinstalled
+https://github.com/antonio24073/aapanel-ubuntu-22-04-sysbox
 
 # Aapanel Centos 7 Preinstalled
 
